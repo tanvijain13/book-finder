@@ -5,7 +5,7 @@ This is a react web application which uses Google Books API to fetch and show th
 
 <img width="1448" alt="Screenshot 2023-06-05 at 9 31 08 AM" src="https://github.com/tanvijain13/my-book-app/assets/57685692/4ecf661a-26b1-4ce1-870f-82520da70125">
 
-## Key Decisions 
+<h2> Key Decisions </h2>
 
 - The app is comprised of different components that define the building blocks of this application - Navbar, Header, Search, Book, BookList, BookDetails.
 
@@ -24,7 +24,9 @@ Inside the Routes component, there are multiple Route components that define the
 
 ## Run instructions
 
-Firstly you will require a Google API Key, once you have it, place the key in place of "YOUR-API-KEY" in Context.js file - 
+Clone the repository and navigate to the project directory.
+
+You will require a Google API Key, once you have it, place the key in place of "YOUR-API-KEY" in Context.js file - 
 
 ### `const API_KEY = "YOUR-API-KEY"; `
 
