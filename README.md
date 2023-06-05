@@ -5,7 +5,7 @@ This is a react web application which uses Google Books API to fetch and show th
 
 <img width="1448" alt="Screenshot 2023-06-05 at 9 31 08 AM" src="https://github.com/tanvijain13/my-book-app/blob/master/Screenshot%202023-06-05%20at%209.58.21%20AM.png">
 
-## Key Decisions
+## Key Decisions Made
 
 - The app is comprised of different components that define the building blocks of this application - Navbar, Header, Search, Book, BookList, BookDetails.
 
@@ -21,6 +21,14 @@ Inside the Routes component, there are multiple Route components that define the
 - The application styling is done using CSS and is done in a component focused way to make is easier to edit and readable. 
 
 - The unit tests were created and tested using React Testing library and Jest.
+
+## Future Ideas
+
+- I would add a login/register page and create a database to store the user information
+- Recommendation system based on user search history and favorites
+- Shuffle books feature to suggest books randomly
+- chatGPT integration for searching books based on description for more specific search using AI models
+- chatGPT book summary integration to show a book summary
 
 ## Run instructions
 
