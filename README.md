@@ -6,7 +6,7 @@ This is a react web application which uses Google Books API to fetch and show th
 
 ## Key Decisions 
 
-- The app is comprised of different components that define the building blocks of this application - Navbar, Header, Book, BookList, BookDetails.
+- The app is comprised of different components that define the building blocks of this application - Navbar, Header, Search, Book, BookList, BookDetails.
 
 - The index.js acts as the entry point for the app the renders React components into the DOM and helps to navigate between different components using BrowserRouter which sets up the routing configuration for the application.
 Inside the Routes component, there are multiple Route components that define the different paths and components to be rendered for those paths.
