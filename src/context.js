@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from 'react';
 import { useCallback } from 'react';
 import axios from "axios";
 
-const API_KEY = "AIzaSyAKGfCHS7p2PIUXtJVOoX2reniPuqHdX-4";
+const API_KEY = "YOUR-API-KEY";
 const URL = "https://www.googleapis.com/books/v1/volumes";
 
 const AppContext = React.createContext();
