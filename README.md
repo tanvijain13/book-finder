@@ -2,6 +2,7 @@
 # Book Finder
 
 ### This is a react web application which uses Google Books API to fetch and show the books based on the simple search entry. 
+
 <img width="1448" alt="Screenshot 2023-06-05 at 9 31 08 AM" src="https://github.com/tanvijain13/my-book-app/assets/57685692/4ecf661a-26b1-4ce1-870f-82520da70125">
 
 ## Key Decisions 
