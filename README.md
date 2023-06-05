@@ -23,6 +23,10 @@ Inside the Routes component, there are multiple Route components that define the
 
 ## Run instructions
 
+Firsly you will require a Google API Key, once you have it, place the key in place of "YOUR-API-KEY" in Context.js file - 
+
+### `const API_KEY = "YOUR-API-KEY"; `
+
 In the project directory, you can run:
 ### `npm install react-scripts`
 
