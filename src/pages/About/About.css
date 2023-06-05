@@ -1,0 +1,15 @@
+.about{
+    padding: 3rem 0;
+}
+.about-content{
+    gap: 4rem;
+}
+.about-title{
+    margin: 1rem 0;
+}
+
+.about-text p{
+    margin: 1.8rem 0;
+    opacity: 0.8;
+}
+
